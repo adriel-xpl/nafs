@@ -1,5 +1,26 @@
+a {
+    text-decoration: none !important;
+}
 .ribbon {
     background-color: #78be20 !important;
     color: #0B233F !important;
     font-weight: 700;
+}
+
+.lead {
+    font-size: 95px !important;
+    line-height: normal !important;
+    font-weight: 500 !important;
+
+}
+.sublead {
+    font-size: 48px !important;
+}
+
+.xpl-desc {
+    font-size: 24px !important;
+}
+.thumbnail > img {
+    width: 360px !important;
+    height: 240px !important;
 }
