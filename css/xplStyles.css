@@ -24,3 +24,7 @@ a {
     width: 360px !important;
     height: 240px !important;
 }
+.navbar-brand {
+    margin: 0 !important;
+    padding: 0 !important;
+}
